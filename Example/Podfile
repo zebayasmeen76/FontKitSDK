@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FontKitSDK_Example' do
+  pod 'FontKitSDK', :path => '../'
+
+  target 'FontKitSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
