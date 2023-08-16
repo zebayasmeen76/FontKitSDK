@@ -1,0 +1,16 @@
+PODS:
+  - FontKitSDK (0.1.0)
+
+DEPENDENCIES:
+  - FontKitSDK (from `../`)
+
+EXTERNAL SOURCES:
+  FontKitSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FontKitSDK: 6cf694b35ccdbdf0eabd5977a80118f5cf027d6a
+
+PODFILE CHECKSUM: 0a5bee283ebb67c01866b0952e8f23ee0bc7db8b
+
+COCOAPODS: 1.12.1

@@ -22,7 +22,7 @@ pod 'FontKitSDK'
 
 ## Author
 
-Zeba Yasmeen, zeba.y@purplle.com
+Zeba Yasmeen, zebayasmeen76@gmail.com
 
 ## License
 

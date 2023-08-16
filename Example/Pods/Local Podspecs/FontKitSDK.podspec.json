@@ -1,0 +1,22 @@
+{
+  "name": "FontKitSDK",
+  "version": "0.1.0",
+  "summary": "A short description of FontKitSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zeba Yasmeen/FontKitSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zeba Yasmeen": "zeba.y@purplle.com"
+  },
+  "source": {
+    "git": "https://github.com/Zeba Yasmeen/FontKitSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FontKitSDK/Classes/**/*"
+}
